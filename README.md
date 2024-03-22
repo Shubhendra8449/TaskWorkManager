@@ -1,2 +1,1 @@
-A Task Scheduler app which reminds the task using notification.
-We using the Work manager, Room DB and DI for this project.
+Task Master is a cutting-edge task scheduling application designed to streamline your daily activities. With its intuitive interface and powerful features, Task Master helps you manage your tasks effortlessly. Built using Kotlin, WorkManager, Dependency Injection, and Room Database technologies, Task Master ensures reliability, efficiency, and seamless integration with your lifestyle.
